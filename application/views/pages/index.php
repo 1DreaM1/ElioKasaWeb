@@ -457,6 +457,64 @@
 		</div>
 		<!-- /Contact CTA -->
 
+			<!-- Why us -->
+			<div id="why-us" class="section">
+
+<!-- container -->
+<div class="container">
+
+	<!-- row -->
+	<div class="row">
+		<div class="section-header text-center">
+			<h2>Sponzors</h2>
+			<p class="lead">Libris vivendo eloquentiam ex ius, nec id splendide abhorreant.</p>
+		</div>
+
+		<!-- feature -->
+		<div class="col-md-4">
+			<div class="feature">
+				<i class="feature-icon fa fa-flask"></i>
+				<div class="feature-content">
+					<h4>Online Courses</h4>
+					<p>Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+				</div>
+			</div>
+		</div>
+		<!-- /feature -->
+
+		<!-- feature -->
+		<div class="col-md-4">
+			<div class="feature">
+				<i class="feature-icon fa fa-users"></i>
+				<div class="feature-content">
+					<h4>Expert Teachers</h4>
+					<p>Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+				</div>
+			</div>
+		</div>
+		<!-- /feature -->
+
+		<!-- feature -->
+		<div class="col-md-4">
+			<div class="feature">
+				<i class="feature-icon fa fa-comments"></i>
+				<div class="feature-content">
+					<h4>Community</h4>
+					<p>Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+				</div>
+			</div>
+		</div>
+		<!-- /feature -->
+
+	</div>
+	<!-- /row -->
+
+</div>
+<!-- /container -->
+
+</div>
+<!-- /Why us -->
+
 		<!-- Footer -->
 		<footer id="footer" class="section">
 

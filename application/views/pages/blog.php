@@ -12,13 +12,13 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
 
 		<!-- Bootstrap -->
-		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+		<link type="text/css" rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css"/>
 
 		<!-- Font Awesome Icon -->
-		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="<?php echo base_url();?>assets/css/font-awesome.min.css">
 
 		<!-- Custom stlylesheet -->
-		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+		<link type="text/css" rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -38,7 +38,7 @@
 					<!-- Logo -->
 					<div class="navbar-brand">
 						<a class="logo" href="index.html">
-							<img src="./img/logo.png" alt="logo">
+							<img src="<?php echo base_url();?>assets/img/logo.png" alt="logo">
 						</a>
 					</div>
 					<!-- /Logo -->
@@ -53,11 +53,11 @@
 				<!-- Navigation -->
 				<nav id="nav">
 					<ul class="main-menu nav navbar-nav navbar-right">
-						<li><a href="index.html">Home</a></li>
+						<li><a href="<?php echo base_url();?>">Home</a></li>
 						<li><a href="#">About</a></li>
 						<li><a href="#">Courses</a></li>
-						<li><a href="blog.html">Blog</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="<?php echo base_url();?>blog">Blog</a></li>
+						<li><a href="<?php echo base_url();?>contact">Contact</a></li>
 					</ul>
 				</nav>
 				<!-- /Navigation -->
@@ -70,14 +70,14 @@
 		<div class="hero-area section">
 
 			<!-- Backgound Image -->
-			<div class="bg-image bg-parallax overlay" style="background-image:url(./img/page-background.jpg)"></div>
+			<div class="bg-image bg-parallax overlay" style="background-image:url(<?php echo base_url();?>assets/img/page-background.jpg)"></div>
 			<!-- /Backgound Image -->
 
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 text-center">
 						<ul class="hero-area-tree">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="<?php echo base_url();?>index">Home</a></li>
 							<li>Blog</li>
 						</ul>
 						<h1 class="white-text">Blog Page</h1>
@@ -109,7 +109,7 @@
 								<div class="single-blog">
 									<div class="blog-img">
 										<a href="blog-post.html">
-											<img src="./img/blog01.jpg" alt="">
+											<img src="<?php echo base_url();?>assets/img/blog01.jpg" alt="">
 										</a>
 									</div>
 									<h4><a href="blog-post.html">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
@@ -129,7 +129,7 @@
 								<div class="single-blog">
 									<div class="blog-img">
 										<a href="blog-post.html">
-											<img src="./img/blog02.jpg" alt="">
+											<img src="<?php echo base_url();?>assets/img/blog02.jpg" alt="">
 										</a>
 									</div>
 									<h4><a href="blog-post.html">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
@@ -149,7 +149,7 @@
 								<div class="single-blog">
 									<div class="blog-img">
 										<a href="blog-post.html">
-											<img src="./img/blog03.jpg" alt="">
+											<img src="<?php echo base_url();?>assets/img/blog03.jpg" alt="">
 										</a>
 									</div>
 									<h4><a href="blog-post.html">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
@@ -169,7 +169,7 @@
 								<div class="single-blog">
 									<div class="blog-img">
 										<a href="blog-post.html">
-											<img src="./img/blog04.jpg" alt="">
+											<img src="<?php echo base_url();?>assets/img/blog04.jpg" alt="">
 										</a>
 									</div>
 									<h4><a href="blog-post.html">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
@@ -239,30 +239,30 @@
 
 							<!-- single posts -->
 							<div class="single-post">
-								<a class="single-post-img" href="blog-post.html">
-									<img src="./img/post01.jpg" alt="">
+								<a class="single-post-img" href="<?php echo base_url();?>blog-post">
+									<img src="<?php echo base_url();?>assets/img/post01.jpg" alt="">
 								</a>
-								<a href="blog-post.html">Pro eu error molestie deserunt.</a>
+								<a href="<?php echo base_url();?>blog-post">Pro eu error molestie deserunt.</a>
 								<p><small>By : John Doe .18 Oct, 2017</small></p>
 							</div>
 							<!-- /single posts -->
 
 							<!-- single posts -->
 							<div class="single-post">
-								<a class="single-post-img" href="blog-post.html">
-									<img src="./img/post02.jpg" alt="">
+								<a class="single-post-img" href="<?php echo base_url();?>blog-post">
+									<img src="<?php echo base_url();?>assets/img/post02.jpg" alt="">
 								</a>
-								<a href="blog-post.html">Pro eu error molestie deserunt.</a>
+								<a href="<?php echo base_url();?>blog-post">Pro eu error molestie deserunt.</a>
 								<p><small>By : John Doe .18 Oct, 2017</small></p>
 							</div>
 							<!-- /single posts -->
 
 							<!-- single posts -->
 							<div class="single-post">
-								<a class="single-post-img" href="blog-post.html">
-									<img src="./img/post03.jpg" alt="">
+								<a class="single-post-img" href="<?php echo base_url();?>blog-post">
+									<img src="<?php echo base_url();?>assets/img/post03.jpg" alt="">
 								</a>
-								<a href="blog-post.html">Pro eu error molestie deserunt.</a>
+								<a href="<?php echo base_url();?>blog-post">Pro eu error molestie deserunt.</a>
 								<p><small>By : John Doe .18 Oct, 2017</small></p>
 							</div>
 							<!-- /single posts -->
@@ -309,7 +309,7 @@
 					<div class="col-md-6">
 						<div class="footer-logo">
 							<a class="logo" href="index.html">
-								<img src="./img/logo.png" alt="logo">
+								<img src="<?php echo base_url();?>assets/img/logo.png" alt="logo">
 							</a>
 						</div>
 					</div>
@@ -318,11 +318,11 @@
 					<!-- footer nav -->
 					<div class="col-md-6">
 						<ul class="footer-nav">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="<?php echo base_url();?>">Home</a></li>
 							<li><a href="#">About</a></li>
-							<li><a href="#">Courses</a></li>
+							<li><a href="<?php echo base_url();?>#">Courses</a></li>
 							<li><a href="blog.html">Blog</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="<?php echo base_url();?>contact">Contact</a></li>
 						</ul>
 					</div>
 					<!-- /footer nav -->
@@ -369,9 +369,9 @@
 
 
 		<!-- jQuery Plugins -->
-		<script type="text/javascript" src="js/jquery.min.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/main.js"></script>
+		<script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.min.js"></script>
+		<script type="text/javascript" src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="<?php echo base_url();?>assets/js/main.js"></script>
 
 	</body>
 </html>
