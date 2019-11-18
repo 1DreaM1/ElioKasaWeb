@@ -96,6 +96,60 @@
       </div>
     </section>
 
+      <section class="ftco-section contact-section" style="padding-top: 0">
+          <div class="container">
+              <div class="row d-flex mb-5 contact-info justify-content-center">
+                  <div class="contacts table" aria-labelledby="contacts-caption-text">
+                      <span class="caption" id="contacts-caption-text"><h2 class="text-center">Ďalšie kontakty</h2></span>
+                      <div class="contacts-header thead">
+                          <span class="th" id="th-name">Názov:</span>
+                          <span class="th" id="th-org">Adresa:</span>
+                          <span class="th" id="th-phone">Telefón:</span>
+                          <span class="th" id="th-email">Email:</span>
+                      </div>
+                      <ul class="tbody">
+                          <li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name" data-name="axis">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Axis Distribution s.r.o.</span>
+                              </span>
+                              <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-org">M:Rázusa 35, 984 01 Lučenec , Slovensko</span>
+                              </span>
+                              <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">047-4331173</span>
+                              </span>
+                               <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="mailto:obchod@axis-distribution.eu">obchod@axis-distribution.eu</a></span>
+                              </span>
+                          </li>
+                          <li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name" data-name="axis3">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Axis Distribution s.r.o.</span>
+                              </span>
+                              <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-org">M:Rázusa 35, 984 01 Lučenec , Slovensko</span>
+                              </span>
+                              <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">047-4331173</span>
+                              </span>
+                              <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="mailto:obchod@axis-distribution.eu">obchod@axis-distribution.eu</a></span>
+                              </span>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </section>
+
     <section class="ftco-section ftco-no-pb ftco-no-pt">
     	<div class="container-fluid px-0">
     		<div class="row justify-content-center">
@@ -109,8 +163,6 @@
      <?php
 		include 'footer.php';
 	  ?>
-    
-  
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
