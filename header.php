@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row no-gutters d-flex align-items-center align-items-stretch">
 			<div class="col-md-3 d-flex align-items-center py-4">
-				<a class="navbar-brand" href="index.html">Elio Kasa</a>
+				<a class="navbar-brand" href="index">Elio Kasa</a>
 			</div>
 			<div class="col-lg-9 d-block">
 				<div class="row d-flex">
@@ -46,11 +46,12 @@
 	  <div class="collapse navbar-collapse" id="ftco-nav">
 		<ul class="navbar-nav mr-auto">
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "index" || basename($_SERVER['REQUEST_URI']) == ""): ?>active<?php endif; ?>"><a href="index" class="nav-link pl-0">Domov</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "about"): ?>active<?php endif; ?>"><a href="about" class="nav-link">O Nás</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "solutions"): ?>active<?php endif; ?>"><a href="solutions" class="nav-link">Riešenia</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "about"): ?>active<?php endif; ?>"><a href="#" class="nav-link">O nás</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "solutions"): ?>active<?php endif; ?>"><a href="#" class="nav-link">Riešenia</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eliokasa"): ?>active<?php endif; ?>"><a href="eliokasa" class="nav-link">Elio Kasa</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "vrpeliodriver"): ?>active<?php endif; ?>"><a href="vrpeliodriver" class="nav-link">VRP Elio Driver</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "contact"): ?>active<?php endif; ?>"><a href="contact" class="nav-link">Kontakt</a></li>
+			<li class="nav-item"><a href="http://www.pokladnicne-centrum.sk" class="nav-link">Eshop</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "contact"): ?>active<?php endif; ?>"><a href="contact" class="nav-link">Kontakty</a></li>
 		</ul>
 	  </div>
 	</div>

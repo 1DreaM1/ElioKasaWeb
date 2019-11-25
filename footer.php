@@ -19,7 +19,7 @@
 		  <div class="block-21 mb-4 d-flex">
 			<a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
 			<div class="text">
-			  <h3 class="heading"><a href="solutions">Riešenia</a></h3>
+			  <h3 class="heading"><a href="#">Riešenia</a></h3>
 			  <div class="meta">
 				<div><a href="#"><span class="icon-calendar"></span> November 17, 2019</a></div>
 				<div><a href="#"><span class="icon-person"></span> Admin</a></div>
@@ -45,8 +45,8 @@
 		  <h2 class="ftco-heading-2">Linky</h2>
 		  <ul class="list-unstyled">
 			<li><a href="index"><span class="ion-ios-arrow-round-forward mr-2"></span>Domov</a></li>
-			<li><a href="about"><span class="ion-ios-arrow-round-forward mr-2"></span>O Nás</a></li>
-			<li><a href="solutions"><span class="ion-ios-arrow-round-forward mr-2"></span>Riešenia</a></li>
+			<li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>O Nás</a></li>
+			<li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Riešenia</a></li>
 			<li><a href="eliokasa"><span class="ion-ios-arrow-round-forward mr-2"></span>Elio Kasa</a></li>
 			<li><a href="vrpeliodriver"><span class="ion-ios-arrow-round-forward mr-2"></span>VRP Elio Driver</a></li>
 			<li><a href="contact"><span class="ion-ios-arrow-round-forward mr-2"></span>Kontakt</a></li>
@@ -77,7 +77,7 @@
 	  <div class="col-md-12 text-center">
 
 		<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Axis Distribution s.r.o. | Powered by <a href="#">DreaM</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | AXIS distribution s.r.o. | Powered by <a href="#">DreaM</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 	  </div>
 	</div>

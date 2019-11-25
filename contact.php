@@ -111,11 +111,11 @@ include 'header.php';
                     <li class="tr" itemscope itemtype="http://schema.org/Person">
                               <span class="td td-name">
                                 <span class="label">Názov:</span>
-                                <span class="data" itemprop="name" aria-labelledby="th-name">Axis Distribution s.r.o.</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">AXIS distribution s.r.o.</span>
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">M.Rázusa 35,98401 Lučenec,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">M.Rázusa 35,98401 Lučenec</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -133,7 +133,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Vajnorská 108,83104 Bratislava,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Vajnorská 108,83104 Bratislava</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -151,7 +151,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Mučeníkov 259/1 06001 Kežmarok,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Mučeníkov 259/1 06001 Kežmarok</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -169,7 +169,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Nám.hrdinov 6,93401 Levice,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Nám.hrdinov 6,93401 Levice</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -187,7 +187,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Budovateľská 12 Brezno ,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Budovateľská 12 Brezno</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -205,7 +205,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Petofiho 4649,94501 Komárno,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Petofiho 4649,94501 Komárno</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -223,7 +223,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Družstevná 839/8,97901 Rimavská Sobota,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Družstevná 839/8,97901 Rimavská Sobota</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -241,7 +241,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">I.Houdeka 03401 Ružomberok,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">I.Houdeka 03401 Ružomberok</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -259,7 +259,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Halenárska 7,91701 Trnava,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Halenárska 7,91701 Trnava</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -277,7 +277,7 @@ include 'header.php';
                               </span>
                         <span class="td" itemscope itemtype="http://schema.org/Organization">
                                 <span class="label">Adresa:</span>
-                                <span class="data" itemprop="location" aria-labelledby="th-org">Študentská  30,96001 Zvolen,Slovensko</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Študentská  30,96001 Zvolen</span>
                               </span>
                         <span class="td">
                                 <span class="label">Telefón:</span>
@@ -286,6 +286,492 @@ include 'header.php';
                         <span class="td">
                                 <span class="label">Email:</span>
                                 <span class="data" itemprop="email" aria-labelledby="th-email"><a href="info@top-it.sk">info@top-it.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Prodata plus s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">1. mája 878/22, 020 01 Púchov</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone"> 042-4631873, 0911 103 096</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="prodata@prodata.sk">prodata@prodata.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">DATAX</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">1. mája 137/43 031 01 Liptovský Mikuláš</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone"> 0948 888 100</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="info@datax.sk">info@datax.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Euro-pokladne.sk s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Sládkovičova 920/4, 92901 Dunajská Streda</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0948 057 827</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="info@euro-pokladne.sk">info@euro-pokladne.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Casallia Slovakia,s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Súvoz 802, 911 01 Trenčín</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">032/7443 844</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="objednavky@casallia.sk">objednavky@casallia.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Markos Comp s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Kossuthova 60,943 01 Štúrovo</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0908 400 646</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="markos@markos.sk">markos@markos.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">EDI SYSTEM, spol. s r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Jadranská 2292/38, 841 02 Bratislava</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">02/644 623 55</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="edisystem@edisystem.sk">edisystem@edisystem.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">AV Servis, s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Kresánkova 12,841 05 Bratislava</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0903 445 787 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="uctaren@avservis.org">uctaren@avservis.org</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">WORLDCOMP s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Rudolfa Jašika 504,958 01 Partizánske</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">038-3700037 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="obchod@worldcomp.sk">obchod@worldcomp.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">PemoComp</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Kozmonautov 51,943 01 Štúrovo</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0905 280 450 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="info@pemocomp.sk">info@pemocomp.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">PC-SYSTEM s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Odeská 38,82106 Bratislava</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0903 228 010</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="pcsystem@pc-system.sk">pcsystem@pc-system.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Ing.Pavol Perháč-ELTECH</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Tatranská Polianka 22,06201 Vysoké Tatry</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0903 606 377</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="perhac@eltechpp.sk">perhac@eltechpp.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person" data-lat="48.578540" data-lng="19.527620">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Ing.Ján Cerovský-ELPOS</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Zánemecká 282,962 05 Hriňová</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0903 536 533</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="elpos@elposhrinova.sk">elpos@elposhrinova.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person" data-lat="48.679660" data-lng="17.369810">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Ivan Kozák - K & H</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">J.Kráľa 733,905 01 Senica</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0905 619 843</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="kah@kah.sk">kah@kah.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">EuroServis LK, spol. s r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Šamorínska 52,821 06 Bratislava</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0903 723 970</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="info@blocek.sk">info@blocek.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person" data-lat="48.554160" data-lng="18.153630">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Obchod PC, s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Pod Kalváriou 913/65, 955 01 Topoľčany</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0903 912 450</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="obchod@obchodpc.sk">obchod@obchodpc.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">DATACOM-Ladislav Michlík</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Francisciho 3288, 058 01 Poprad</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">52-77 610 43</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="datacoke@ke.telecom.sk">datacoke@ke.telecom.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person" data-lat="48.124290" data-lng="19.360990">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Peter Sorčík SOFT - COMP</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Kl. Gottwalda 61/25, 991 06 Želovce</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0949 136 717 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="soft-comp@soft-comp.sk">soft-comp@soft-comp.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Juraj Bugár - BIT / BUGÁR INSTRUMENT TRADE</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Komárňanská 2157/120, 932 01 Veľký Meder</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">031 5553 707, 0905 266 223 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="bit-vm@nextra.sk">bit-vm@nextra.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person" data-lat="48.353250" data-lng="19.066770">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">BJK - Computer</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Partizánska 24/2,963 01 Krupina</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">045/551 12 58  </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="bjk@bjk.sk">bjk@bjk.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Robert Anyalai - ROBITECH</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Kameničná 740, 946 01 Kameničná</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0904 609 222    </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="robitech@robitech.sk">robitech@robitech.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">MG Import, s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Priemyselná 10, 917 01  Trnava</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0948 242 067 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="info@glfarby.sk">info@glfarby.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Ing.Peter Hátas - Ph Soft</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Dóžová 1635, 927 05 Šaľa</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0905 063 161 </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="hatas@orangemail.sk">hatas@orangemail.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Pronetis s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Za Humnami 732/45, 949 01 Nitra</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">037-202 89 39,  0907 989 822  </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="medo@pronetis.eu">medo@pronetis.eu</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">KasCom</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Štúrová č.14, Košice</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">055-622 02 02, 0905 272 765  </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="pokladne@kascom.sk">pokladne@kascom.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">COMPUTER CLUB, s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Mostná 3, 949 01 Nitra</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0902 903 777, 037-7722440  </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="compclub@compclub.sk">compclub@compclub.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">COMPUTER CLUB, s.r.o.</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Petelenova 2, 97401 Banská Bystrica</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0902903774, 048-4154133  </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="katarina@ccbb.sk">katarina@ccbb.sk</a></span>
+                              </span>
+                    </li>
+					<li class="tr" itemscope itemtype="http://schema.org/Person">
+                              <span class="td td-name">
+                                <span class="label">Názov:</span>
+                                <span class="data" itemprop="name" aria-labelledby="th-name">Pavol Krčmárik</span>
+                              </span>
+                        <span class="td" itemscope itemtype="http://schema.org/Organization">
+                                <span class="label">Adresa:</span>
+                                <span class="data" itemprop="location" aria-labelledby="th-org">Skalité 282, 023 14 Skalité</span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Telefón:</span>
+                                <span class="data" itemprop="telephone" aria-labelledby="th-phone">0905 459 084  </span>
+                              </span>
+                        <span class="td">
+                                <span class="label">Email:</span>
+                                <span class="data" itemprop="email" aria-labelledby="th-email"><a href="pavolkrcmarik@centrum.sk">pavolkrcmarik@centrum.sk</a></span>
                               </span>
                     </li>
                 </ul>

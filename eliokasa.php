@@ -50,17 +50,23 @@
 						<div class="wrap-about-border">
 							<div class="img" style="background-image: url(images/about.jpg); border"></div>
 							<div class="text">
-								<h3>Read Our Success Story for Inspiration</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								<p><a href="#" class="btn btn-primary py-3 px-4">Contact us</a></p>
+								<h3>Zaujalo Vás naše riešenie ?</h3>
+								<p>Prejdite na kontakty , kde môžete nájsť najbližšieho predajno-servisného nášho partnera , ktorý Vás zaškolí a v budúcnotsi bude k dispozícií pre potrebný servis..</p>
+								<p><a href="contact" class="btn btn-primary py-3 px-4">Kontakty</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Welcome to Consolution</h2>
-						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their</p>
+          	<h2 class="mb-4">Pre koho sú vhodné naše riešenia elio Kasa ?</h2>
+						<p>Elio Kasa pokladne eKasa sú spoľahlivé a jednoducho ovládateľné pokladne a pokladničné systémy pre malé a stredne veľké obchody, reštaurácie a kaviarne, hotely a ubytovne, výrobcov, remeselníkov a poskytovateľov služieb. Tieto registračné pokladne určené pre evidenciu tržieb v systéme eKasa sú užívateľmi oceňované pre jednoduchú inštaláciu, jednoduchú obsluhu, spoľahlivú prevádzku, nonstop technickú podporu a detailné návody. Pokladne fungujú aj pri výpadku internetu. Najlacnejšia elio miniPOS A5 akčná pokladnička je efektívne riešenie eKasa pre malých živnostníkov ako stánkarov, remeselníkov a poskytovateľov služieb..</p>
+						<p></p>
+						<p></p>
+					</div>
+					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
+          	<h2 class="mb-4">Koľko zaplatíte za elio Kasa aplikáciu?</h2>
+						<p>Základná verzia aplikácie  " ZÁKLAD" je v cene Vami kúpenej certifikovanej pokladnice elio POS alebo miniPOS . Neplatíte žiadne mesačné alebo iné poplatky za používanie základnej verzie elio Kasa , vrátane prepojenia na platobny terminál SumUp a možnsosti využívania otvorených účtov.V základnej verzii sú dostupné všetky bežné funkcie ako zákazník používal pri tlačítkových registračných pokladniciach.</p>
+						<p></p>
+						<p></p>
 					</div>
 				</div>
 			</div>
@@ -70,18 +76,72 @@
 			<div class="container">
 				<div class="row justify-content-center mb-5 pb-2 d-flex">
     			<div class="col-md-6 align-items-stretch d-flex">
-    				<div class="img img-video d-flex align-items-center" style="background-image: url(images/about.jpg);">
+    				<div class="img img-video d-flex align-items-center" style="background-image: url(images/elio1.png);">
+       				</div>
+    			</div>
+          <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
+            <h2 class="mb-4">Základná obrazovka</h2>
+            <p>Jednoduchá a prehľadná základná obrazovka aplikácie elio Kasa. Dostupné je menu v pravom ako aj v ľavom rohu. Farby jednotlivých tovarov ako aj skupín je možne meniť v nastaveniach , v oddelení TOVAR.  </p>
+            <p>Ľavé menu obsahuje funkcie základného nastavenia pre eKasa , tovarov , tlače a nastavenie prostredia ako je počet tovarov na základnú obrazovku , typu použitej tlačiarne .  </p>
+			<p>Pravé menu obsahuje funkcie ,ktoré sa aplikujú na predávaný tovar ako je zľava / prirážka , úhrada faktúry , zaevidivanie polohy v prípade prenosnej pokladnice a tréningový režim </p>
+          </div>
+		  
+        </div>	
+			</div>
+		</section>
+		<section class="ftco-section ftco-counter">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2 d-flex">
+    			<div class="col-md-6 align-items-stretch d-flex">
+    				<div class="img img-video d-flex align-items-center" style="background-image: url(images/elio2.png);">
+       				</div>
+    			</div>
+          <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
+            <h2 class="mb-4">Ľavé menu</h2>
+            <p>Útenky - obsahuje všetky vytvorené účtenky aplikáciou elio Kasa, pokiaľ neboli úspešne odoslané na server FS , sú označené výkričníkom . Ak je účtenka čerbvenej farby , bola vytvorená ako vrátená so zápornou hodnotou. </p>
+            <p>Tovar - obsahuje zoznam tovaru , ktorý môžete pridávať alebo upravovať , vrátane použitia čiarových kódov . Meniť farbu jednotlivých tovarov alebo služieb </p>
+			<p>Prehľady - obsahuje prehľady predajov , za aktuálny deň , včerajší deň, týždeň , mesiac, rok ako ja možnosť výberu podľa dátumu . </p>
+			<p>Kalkulačka - V popise v ďalšom bloku. </p>
+			<p>Nastavenia - obsahuje nastavenie systému a prostredia. </p>
+          </div>
+		  
+        </div>	
+			</div>
+		</section>
+		</section>
+		<section class="ftco-section ftco-counter">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2 d-flex">
+    			<div class="col-md-6 align-items-stretch d-flex">
+    				<div class="img img-video d-flex align-items-center" style="background-image: url(images/elio3.png);">
+       				</div>
+    			</div>
+          <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
+            <h2 class="mb-4">Kalkulačka</h2>
+            <p>Kalkulačka - Pre zákazníkov , ktorí sú zvyknutí na predaj cez zadávanie PLU kódov , je k dispozícií okno KALKULAČKA , ktorá zjednodušuje tento predaj. Pri Kalkulačke je možný predaj aj cez otvorené ceny . Táto obrazovka, nahrádza jednoduché použitie, tak ako boli zákazníci zvyknutý pri bežných tlačítkových registračných pokladniciach </p>
+			<p>Viac sa zákazníci nemusia obávať práce s dotykovou obrazovkou elio Kasa, všetko majú tak intuitívne ako poznali doteraz.</p>
+			<p>Okno kalkulačky je možné nastaviť aby sa automaticky zobrazovalo po spustení aplikácie elio Kasa.</p>
+			    </div>
+		  
+        </div>	
+			</div>
+		</section>
+		<section class="ftco-section ftco-counter">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2 d-flex">
+    			<div class="col-md-6 align-items-stretch d-flex">
+    				<div class="img img-video d-flex align-items-center" style="background-image: url(images/sumup_2.png);">
     					<div class="video justify-content-center">
-								<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+								<a href="https://www.youtube.com/watch?v=uxQGTOZqfHk" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 									<span class="ion-ios-play"></span>
 		  					</a>
 							</div>
     				</div>
     			</div>
           <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">We Are the Best Consulting Agency</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+            <h2 class="mb-4">elio Kasa a platby kartou SumUp</h2>
+            <p>Príklad použitia elio Kasa s platobným terminálom SumUp. Pre použitie platobného terminálu SumUp musíte mať aktivovanú licenciu . Licencia pre SumUp je v základnej verzii dodávanej so zariadením.</p>
+            <p>Naša spločnosť je autorizovaný partner pre platobné terminály SumUp .</p>
           </div>
         </div>	
 			</div>

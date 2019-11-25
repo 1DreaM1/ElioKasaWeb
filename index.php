@@ -71,7 +71,7 @@
 							<div class="text">
 								<h3>Postačuje Vám VRP pokladňa ? Máme aj pre Vás výhodnú ponuku</h3>
 								<p>Aplikácia elio driver VRP , je ovládač ktorý aplikáciu Virtuálna registračná pokladnica rozširuje o možnosť tlače na bezdrôtových bluetooth tlačiarňach elio a ako aj pokladničkách elio miniPOS .</p>
-								<p><a href="#" class="btn btn-primary py-3 px-4">Viac Informácií</a></p>
+								<p><a href="vrpeliodriver" class="btn btn-primary py-3 px-4">Viac Informácií</a></p>
 							</div>
 						</div>
 					</div>
@@ -100,14 +100,14 @@
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
 									<div class="text media-body">
 										<h3>Vývoj</h3>
-										<p>Neustále vyvíjame našu aplikáciu, sme otvorený pre Vaše pripomienky a podnety. Našu aplikáciu elio Kasa používa viac ako 10 000 užívateľov.</p>
+										<p>Neustále vyvíjame našu aplikáciu, sme otvorený pre Vaše pripomienky a podnety. Naše aplikácie elio Kasa a elio driver VRP používa viac ako 25 000 užívateľov.</p>
 									</div>
 								</div>
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-handshake"></span></div>
 									<div class="text media-body">
-										<h3>Capital Market</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>Spolupráca</h3>
+										<p>Spolupracujeme poprednými výrobcami zariadení , aby sme Vám vedeli ponúknuť kvalitný servis.</p>
 									</div>
 								</div>
 							</div>
@@ -137,7 +137,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="12500">0</strong>
+		                <strong class="number" data-number="24000">0</strong>
 		                <span>POČET ZÁKAZNÍKOV</span>
 		              </div>
 		            </div>
@@ -146,7 +146,7 @@
 		            <div class="block-18">
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
-		                <strong class="number" data-number="1320">0</strong>
+		                <strong class="number" data-number="285">0</strong>
 		                <span>POČET TECHNIKOV</span>
 		              </div>
 		            </div>
@@ -286,9 +286,9 @@
 				<div class="row no-gutters justify-content-center mb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
             <h2 class="mb-4">Pozrite si naše videa na Youtube kanály.</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p><br>
+            <p>Stále doplňujeme pre Vás prezentácie práce s aplikáciou elio Kasa a elio diver VRP. Na tomto mieste taktiež môžete nájsť aj videonávody na inštaláciu ako aj uvedenie do prevádzky Vaše zariadenie elio Kasa alebo elio driver VRP.</p><br>
             <!--<iframe width="600" height="300" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>-->
-			<a class="about-video" href="#">
+			<a class="about-video" href="https://www.youtube.com/channel/UCyovhJQr7hg5_H05vzYR5jQ">
 				<img src="images/course04.jpg" alt="">
 				<i class="play-icon fas fa-play" style="color:#212529;"></i>
 			</a>

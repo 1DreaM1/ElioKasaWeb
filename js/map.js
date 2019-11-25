@@ -32,13 +32,23 @@ $(".tr").each(function() {
 	let lng = positionData['lng'];
 
 	if(typeof lat === "undefined") {
-		lat = 48.3303;
+		if(typeof $(this).data("lat") === "undefined") {
+			lat = 48.3303;
+		} else {
+			lat = $(this).data("lat");
+		}
 	}
 	if(typeof lng === "undefined") {
-		lng = 19.6632;
+		if(typeof $(this).data("lng") === "undefined") {
+			lng = 19.6632;
+		} else {
+			lng = $(this).data("lng");
+		}
 	}
 
-	markersArray[name] = L.marker([lat, lng]).bindPopup('<b><span style="color:red;">'+ name +'</span></b><br>'+ location +'<br>Tel: '+ tel +'<br>Email: '+ email).addTo(points);
+	if(lat !== 0 && lng !== 0) {
+		markersArray[name] = L.marker([lat, lng]).bindPopup('<b><span style="color:red;">'+ name +'</span></b><br>'+ location +'<br>Tel: '+ tel +'<br>Email: '+ email).addTo(points);
+	}
 })
 
 var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
