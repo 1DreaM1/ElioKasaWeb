@@ -1,3 +1,10 @@
+<?php
+if(basename(dirname($_SERVER['PHP_SELF'])) == 'pages')
+    $backdir = '../';
+else
+    $backdir = '';
+?>
+
 <div class="bg-top navbar-light">
 	<div class="container">
 		<div class="row no-gutters d-flex align-items-center align-items-stretch">
@@ -22,7 +29,7 @@
 					</div>
 					<div class="col-md topper d-flex align-items-center justify-content-end">
 						<p class="mb-0 d-block">
-							<a href="contact" class="btn py-2 px-3 btn-primary">
+							<a href="<?=$backdir?>contact" class="btn py-2 px-3 btn-primary">
 								<span>Kontakt</span>
 							</a>
 						</p>
@@ -45,13 +52,13 @@
 	</form>-->
 	  <div class="collapse navbar-collapse" id="ftco-nav">
 		<ul class="navbar-nav mr-auto">
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "index" || basename($_SERVER['REQUEST_URI']) == ""): ?>active<?php endif; ?>"><a href="index" class="nav-link pl-0">Domov</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "index" || basename($_SERVER['REQUEST_URI']) == ""): ?>active<?php endif; ?>"><a href="<?=$backdir?>index" class="nav-link pl-0">Domov</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "about"): ?>active<?php endif; ?>"><a href="#" class="nav-link">O nás</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "solutions"): ?>active<?php endif; ?>"><a href="#" class="nav-link">Riešenia</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eliokasa"): ?>active<?php endif; ?>"><a href="eliokasa" class="nav-link">Elio Kasa</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "vrpeliodriver"): ?>active<?php endif; ?>"><a href="vrpeliodriver" class="nav-link">VRP Elio Driver</a></li>
-			<li class="nav-item"><a href="http://www.pokladnicne-centrum.sk" class="nav-link">Eshop</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "contact"): ?>active<?php endif; ?>"><a href="contact" class="nav-link">Kontakty</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "solutions"): ?>active<?php endif; ?>"><a href="<?=$backdir?>solutions" class="nav-link">Riešenia</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eliokasa"): ?>active<?php endif; ?>"><a href="<?=$backdir?>eliokasa" class="nav-link">Elio Kasa</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "vrpeliodriver"): ?>active<?php endif; ?>"><a href="<?=$backdir?>vrpeliodriver" class="nav-link">VRP Elio Driver</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eshop"): ?>active<?php endif; ?>"><a href="http://www.pokladnicne-centrum.sk" target="_blank" class="nav-link">Eshop</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "contact"): ?>active<?php endif; ?>"><a href="<?=$backdir?>contact" class="nav-link">Kontakty</a></li>
 		</ul>
 	  </div>
 	</div>

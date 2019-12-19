@@ -76,7 +76,7 @@
 						</div>
 					</div>
 					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Pre eKasa je riešením elio Kasa</h2>
+          	            <h2 class="mb-4">Pre eKasa je riešením elio Kasa</h2>
 						<p>Vďaka vybranej sieti technologických partnerov sme schopný plánovať a dodávať kompletné riešenia na základe našej hardvérovej - softvérovej - servisnej platforme vyrobených pre potreby zákazníka.</p>
 						<div class="row mt-5">
 							<div class="col-lg-6">
@@ -84,14 +84,14 @@
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
 									<div class="text media-body">
 										<h3>Školenie užívateľov</h3>
-										<p>Sprevádzkovanie je rýchle vďaka jednoduchej inštalácii a zaškolenia od našich technikov.<br><br><br></p>
+										<p>Sprevádzkovanie je rýchle vďaka jednoduchej inštalácii a zaškolenia od našich technikov.<br><br><br><br></p>
 									</div>
 								</div>
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
 									<div class="text media-body">
 										<h3>Sieť servisných partnerov</h3>
-										<p>Disponujeme širokou sieťou nami školených servisných partnerov na celom území Slovenska.</p>
+										<p>Disponujeme širokou sieťou nami školených servisných partnerov na celom území Slovenska.<br><br></p>
 									</div>
 								</div>
 							</div>
@@ -288,7 +288,7 @@
             <h2 class="mb-4">Pozrite si naše videa na Youtube kanály.</h2>
             <p>Stále doplňujeme pre Vás prezentácie práce s aplikáciou elio Kasa a elio diver VRP. Na tomto mieste taktiež môžete nájsť aj videonávody na inštaláciu ako aj uvedenie do prevádzky Vaše zariadenie elio Kasa alebo elio driver VRP.</p><br>
             <!--<iframe width="600" height="300" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>-->
-			<a class="about-video" href="https://www.youtube.com/channel/UCyovhJQr7hg5_H05vzYR5jQ">
+			<a class="about-video" href="https://www.youtube.com/channel/UCyovhJQr7hg5_H05vzYR5jQ" target="_blank">
 				<img src="images/course04.jpg" alt="">
 				<i class="play-icon fas fa-play" style="color:#212529;"></i>
 			</a>
@@ -322,12 +322,12 @@
 		        					<div class="select-wrap">
 		                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
 		                    <select name="" id="" class="form-control">
-		                    	<option value="">Vyberte druh</option>
-		                      <option value="">Finance</option>
-		                      <option value="">Business</option>
-		                      <option value="">Auto Loan</option>
-		                      <option value="">Real Estate</option>
-		                      <option value="">Other Services</option>
+                                <option value="select">Vyberte druh</option>
+                                  <option value="1">Finance</option>
+                                  <option value="2">Business</option>
+                                  <option value="3">Auto Loan</option>
+                                  <option value="4">Real Estate</option>
+                                  <option value="5">Other Services</option>
 		                    </select>
 		                  </div>
 			              </div>
@@ -372,8 +372,6 @@
   <script src="js/aos.js"></script>
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
     
   </body>

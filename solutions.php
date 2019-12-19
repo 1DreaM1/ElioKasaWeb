@@ -48,53 +48,53 @@
 			<div class="container">
 				<div class="row">
     			<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-2.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course01.jpg);">
     					<div class="overlay"></div>
-    					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
+    					<a href="pages/maloobchod" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="pages/maloobchod">Maloobchod a predajne </a></h3>
+	    					<span>Jednoduché riešenie pre malé a stredne veľké prevádzky</span>
 	    				</div>
     				</div>
   				</div>
   				<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-1.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course02.jpg);">
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Služby a remeselníci </a></h3>
+	    					<span>Malé mobilné pokladničky elio miniPOS s podporou komunikácie 3G/4G</span>
 	    				</div>
     				</div>
   				</div>
 
     			<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-3.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course03.jpg);">
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Stánky a tržnice </a></h3>
+	    					<span>Malé kompaktné elio POS alebo prenosné pokladničky elio miniPOS s prepojením na platobný terminál</span>
 	    				</div>
     				</div>
     			</div>
 					<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-4.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course04.jpg);">
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Kaviarne a bary</a></h3>
+	    					<span>Kompaktné riešenia elio Kasa s možnosťou otvorených účtov, mobilným čašníkom s platbou kartou</span>
 	    				</div>
     				</div>
   				</div>
   				<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-5.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course05.jpg);">
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Taxislužba a autodoprava</a></h3>
+	    					<span>Prenosné elio miniPOS s prepojením s platobným terminálom, pripojenie aj čítačky čiarových kódov s elio Kasa</span>
 	    				</div>
     				</div>
   				</div>
@@ -103,28 +103,28 @@
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Kaderníctva a manikúra</a></h3>
+	    					<span>Prevádzky pod kontrolou , s jednoduchými prehľadmi o predajoch s elio Kasa</span>
 	    				</div>
     				</div>
   				</div>
   				<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-7.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course07.jpg);">
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">KIOSK </a></h3>
+	    					<span>KIOSK prémiové riešenie s elio Kasa . Pre fast foody , rýchle občerstvenia</span>
 	    				</div>
     				</div>
   				</div>
   				<div class="col-md-4">
-    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/project-8.jpg);">
+    				<div class="project mb-4 img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/course08.jpg);">
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Cloudové služby </a></h3>
+	    					<span>Zálohovanie , vzdialená správa prevádzky pod kontrolou</span>
 	    				</div>
     				</div>
   				</div>
@@ -133,27 +133,27 @@
     					<div class="overlay"></div>
     					<a href="#" class="btn-site d-flex align-items-center justify-content-center"><span class="icon-subdirectory_arrow_right"></span></a>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="#">Programovanie aplikácie.</a></h3>
+	    					<span>Na zákazku podľa Vašich zadaní</span>
 	    				</div>
     				</div>
   				</div>
     		</div>
-    		<div class="row mt-5">
-          <div class="col text-center">
-            <div class="block-27">
-              <ul>
-                <li><a href="#">&lt;</a></li>
-                <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
-                <li><a href="#">&gt;</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
+    		<!--<div class="row mt-5">
+              <div class="col text-center">
+                <div class="block-27">
+                  <ul>
+                    <li><a href="#">&lt;</a></li>
+                    <li class="active"><span>1</span></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#">5</a></li>
+                    <li><a href="#">&gt;</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>-->
 			</div>
 		</section>
 
@@ -180,8 +180,6 @@
   <script src="js/aos.js"></script>
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
     
   </body>
