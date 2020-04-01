@@ -35,7 +35,7 @@
     <!-- END nav -->
     
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
+	  <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
@@ -117,7 +117,7 @@
 			</div>
 		</section>
 		
-		<section class="ftco-intro ftco-no-pb img" style="background-image: url(images/bg_3.jpg);">
+		<section class="ftco-intro ftco-no-pb img img-2" style="background-image: url(images/bg_3.jpg);">
     	<div class="container">
     		<div class="row justify-content-center mb-5">
           <div class="col-md-10 text-center heading-section heading-section-white ftco-animate">
@@ -268,7 +268,7 @@
 			</div>
 		</section>
 		
-		<section class="ftco-intro ftco-no-pb img" style="background-image: url(images/bg_1.jpg);">
+		<section class="ftco-intro ftco-no-pb img img-2" style="background-image: url(images/bg_1.jpg);">
     	<div class="container">
     		<div class="row justify-content-center">
           <div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
@@ -289,7 +289,7 @@
             <p>Stále doplňujeme pre Vás prezentácie práce s aplikáciou elio Kasa a elio diver VRP. Na tomto mieste taktiež môžete nájsť aj videonávody na inštaláciu ako aj uvedenie do prevádzky Vaše zariadenie elio Kasa alebo elio driver VRP.</p><br>
             <!--<iframe width="600" height="300" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>-->
 			<a class="about-video" href="https://www.youtube.com/channel/UCyovhJQr7hg5_H05vzYR5jQ" target="_blank">
-				<img src="images/course04.jpg" alt="">
+				<img src="https://i.ytimg.com/vi/5jHLw0ytoM0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDuU_99-jDke7xed2po2iWqD4qtww" alt="">
 				<i class="play-icon fas fa-play" style="color:#212529;"></i>
 			</a>
           </div>
@@ -307,13 +307,13 @@
 		            <h2 class="mb-4">Požiadajte o cenovú ponuku</h2>
 		            <p>Na mieru ušité cenové ponuky pre vašu prevádzku.</p>
 		          </div>
-		          <form action="#" class="appointment-form ftco-animate">
+		          <form action="includes/sendordermail.php" class="appointment-form ftco-animate">
 		    				<div class="d-md-flex">
 			    				<div class="form-group">
-			    					<input type="text" class="form-control" placeholder="Meno">
+			    					<input type="text" class="form-control" name="name" placeholder="Meno">
 			    				</div>
 			    				<div class="form-group ml-md-4">
-			    					<input type="text" class="form-control" placeholder="Priezvisko">
+			    					<input type="text" class="form-control" name="surename" placeholder="Priezvisko">
 			    				</div>
 		    				</div>
 		    				<div class="d-md-flex">
@@ -321,24 +321,21 @@
 			    					<div class="form-field">
 		        					<div class="select-wrap">
 		                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-		                    <select name="" id="" class="form-control">
+		                    <select name="type" class="form-control form-control-sm">
                                 <option value="select">Vyberte druh</option>
-                                  <option value="1">Finance</option>
-                                  <option value="2">Business</option>
-                                  <option value="3">Auto Loan</option>
-                                  <option value="4">Real Estate</option>
-                                  <option value="5">Other Services</option>
+                                  <option value="1">Android</option>
+								  <option value="2">Windows</option>
 		                    </select>
 		                  </div>
 			              </div>
 			    				</div>
 		    					<div class="form-group ml-md-4">
-			    					<input type="text" class="form-control" placeholder="Telefón">
+			    					<input type="text" class="form-control" name="tel" placeholder="Telefón">
 			    				</div>
 		    				</div>
 		    				<div class="d-md-flex">
 		    					<div class="form-group">
-			              <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Správa"></textarea>
+			              <textarea name="msg" cols="30" rows="2" class="form-control" placeholder="Správa"></textarea>
 			            </div>
 			            <div class="form-group ml-md-4">
 			              <input type="submit" value="Odoslať" class="btn btn-white py-3 px-4">

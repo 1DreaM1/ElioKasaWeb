@@ -24,7 +24,7 @@ else
 						<div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
 						<div class="text">
 							<span>Telefón</span>
-							<span>047-4331173</span>
+							<span>+421 47 4331173</span>
 						</div>
 					</div>
 					<div class="col-md topper d-flex align-items-center justify-content-end">
@@ -56,8 +56,9 @@ else
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "about"): ?>active<?php endif; ?>"><a href="#" class="nav-link">O nás</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "solutions"): ?>active<?php endif; ?>"><a href="<?=$backdir?>solutions" class="nav-link">Riešenia</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eliokasa"): ?>active<?php endif; ?>"><a href="<?=$backdir?>eliokasa" class="nav-link">Elio Kasa</a></li>
+            <li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "manual"): ?>active<?php endif; ?>"><a href="<?=$backdir?>manual"  class="nav-link">Manuály</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "vrpeliodriver"): ?>active<?php endif; ?>"><a href="<?=$backdir?>vrpeliodriver" class="nav-link">VRP Elio Driver</a></li>
-			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eshop"): ?>active<?php endif; ?>"><a href="http://www.pokladnicne-centrum.sk" target="_blank" class="nav-link">Eshop</a></li>
+			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eshop"): ?>active<?php endif; ?>"><a href="http://eshop.eliokasa.sk" target="_blank" class="nav-link">Eshop</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "contact"): ?>active<?php endif; ?>"><a href="<?=$backdir?>contact" class="nav-link">Kontakty</a></li>
 		</ul>
 	  </div>

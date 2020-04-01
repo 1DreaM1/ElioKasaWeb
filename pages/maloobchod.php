@@ -36,8 +36,8 @@ include '../header.php';
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
             <div class="col-md-9 ftco-animate text-center">
-                <h1 class="mb-2 bread">Elio Kasa</h1>
-                <p class="breadcrumbs"><span class="mr-2"><a href="index">Domov <i class="ion-ios-arrow-forward"></i></a></span> <span>Elio Kasa</p>
+                <h1 class="mb-2 bread">Maloobchod a predajne</h1>
+                <p class="breadcrumbs"><span class="mr-2"><a href="../index">Domov <i class="ion-ios-arrow-forward"></i></a></span> <span>Elio Kasa</p>
             </div>
         </div>
     </div>
@@ -57,8 +57,8 @@ include '../header.php';
                 </div>
             </div>
             <div class="col-md-7 wrap-about pr-md-4 ftco-animate">
-                <h2 class="mb-4">Pre koho sú vhodné naše riešenia elio Kasa ?</h2>
-                <p>Elio Kasa pokladne eKasa sú spoľahlivé a jednoducho ovládateľné pokladne a pokladničné systémy pre malé a stredne veľké obchody, reštaurácie a kaviarne, hotely a ubytovne, výrobcov, remeselníkov a poskytovateľov služieb. Tieto registračné pokladne určené pre evidenciu tržieb v systéme eKasa sú užívateľmi oceňované pre jednoduchú inštaláciu, jednoduchú obsluhu, spoľahlivú prevádzku, nonstop technickú podporu a detailné návody. Pokladne fungujú aj pri výpadku internetu. Najlacnejšia elio miniPOS A5 akčná pokladnička je efektívne riešenie eKasa pre malých živnostníkov ako stánkarov, remeselníkov a poskytovateľov služieb..</p>
+                <h2 class="mb-4">Prevádzkujete malobchod alebo predajňu?</h2>
+                <p>Elio Kasa pokladne eKasa sú certifikované spoľahlivé a jednoducho ovládateľné pokladne a pokladničné systémy pre malé a stredne veľké obchody. Tento pokladniočný systém je určený pre evidenciu tržieb v eKasa, je užívateľmi oceňovaný pre jednoduchú inštaláciu, jednoduchú obsluhu, spoľahlivú prevádzku, nonstop technickú podporu a detailné návody. Pokladne fungujú aj pri výpadku internetu. Najlacnejšia elio miniPOS A5 akčná pokladnička je efektívne riešenie eKasa pre malých živnostníkov ako stánkarov, remeselníkov a poskytovateľov služieb..</p>
                 <p></p>
                 <p></p>
             </div>
@@ -70,14 +70,14 @@ include '../header.php';
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2 d-flex">
             <div class="col-md-6 align-items-stretch d-flex">
-                <div class="img img-video d-flex align-items-center" style="background-image: url(../images/elio1.png);">
+                <div class="img img-video d-flex align-items-center" style="background-image: url(../images/elio_miniPOS_A6_1.png);">
                 </div>
             </div>
             <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
-                <h2 class="mb-4">Základná obrazovka</h2>
-                <p>Jednoduchá a prehľadná základná obrazovka aplikácie elio Kasa. Dostupné je menu v pravom ako aj v ľavom rohu. Farby jednotlivých tovarov ako aj skupín je možne meniť v nastaveniach , v oddelení TOVAR.  </p>
-                <p>Ľavé menu obsahuje funkcie základného nastavenia pre eKasa , tovarov , tlače a nastavenie prostredia ako je počet tovarov na základnú obrazovku , typu použitej tlačiarne .  </p>
-                <p>Pravé menu obsahuje funkcie ,ktoré sa aplikujú na predávaný tovar ako je zľava / prirážka , úhrada faktúry , zaevidivanie polohy v prípade prenosnej pokladnice a tréningový režim </p>
+                <h2 class="mb-4">elio miniPOS Kasa   od 240 €</h2>
+                <p>Prevádzkujete malú predajňu , bistro alebo predávate na trhoch , alebo máte mobilnú predajňu ? Potrebujete mobilné pripojenie ? Sú pre Vás riešením pokladničky elio miniPOS s akumulátorom vynikajúcim riešením. K prednostiam patrí mobilita, moderný dizajn a kompaktné riešenie. Dotykovú obrazovku , tlačiareň a mobilné pripojenie (WiFi / 3G /  4G ) nájdete v jednom zariadení All-in-one. </p>
+                <p>Pokladničky elio miniPOS tlačia na termopapier o šírke 58mm. Potrebné údaje odosielajú na server  <b>eKasa </b> prostredníctvom Wifi alebo dátovej SIM karty . Máte na výber veľkosť dotykovej obrazovky 5" alebo 6" alebo  7" .  </p>
+                <p>V cene pokladničky elio miniPOS získavate doživotnú licenciu pokladničnej aplikácie <b>elio Kasa ZÁKLAD</b>. Samozrejmosťou je funkcia trénigového režimu pre zaškolenie obsluhy.</p>
             </div>
 
         </div>
@@ -87,16 +87,16 @@ include '../header.php';
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2 d-flex">
             <div class="col-md-6 align-items-stretch d-flex">
-                <div class="img img-video d-flex align-items-center" style="background-image: url(../images/elio2.png);">
+                <div class="img img-video d-flex align-items-center" style="background-image: url(../images/elio_Kasa_140.jpg);">
                 </div>
             </div>
             <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
-                <h2 class="mb-4">Ľavé menu</h2>
-                <p>Útenky - obsahuje všetky vytvorené účtenky aplikáciou elio Kasa, pokiaľ neboli úspešne odoslané na server FS , sú označené výkričníkom . Ak je účtenka čerbvenej farby , bola vytvorená ako vrátená so zápornou hodnotou. </p>
-                <p>Tovar - obsahuje zoznam tovaru , ktorý môžete pridávať alebo upravovať , vrátane použitia čiarových kódov . Meniť farbu jednotlivých tovarov alebo služieb </p>
-                <p>Prehľady - obsahuje prehľady predajov , za aktuálny deň , včerajší deň, týždeň , mesiac, rok ako ja možnosť výberu podľa dátumu . </p>
-                <p>Kalkulačka - V popise v ďalšom bloku. </p>
-                <p>Nastavenia - obsahuje nastavenie systému a prostredia. </p>
+                <h2 class="mb-4">elio POS Kasa   od 366 €</h2>
+                <p>Pokladničný systém elio POS je stacionárna zostava na predajný pult. Vhodné pre predajne malobchodu, bistrá ako ja služby , prípadne predajné stánky pripojené na lelektrickú sieť. </p>
+                <p>Prácu Vám zjednoduší nastviteľný sklon dotykovej obrazovky. Na výber máte 10" alebo 14" alebo 15 " dotykovú obrazovku. K POS terminálom elio je pripojená tlačiareň na termopapier , so šírkou tlač 58mm alebo 80mm. Potrebné údaje odosielajú na server  <b>eKasa </b> prostredníctvom Wifi alebo dátovej SIM karty, podľa typu zvoleného zariadenia.</p>
+                <p>K pokladničnému systému elio POS su pripojiteľné externé zariadenia , ako snímač čiarových kódov, pokladničná zásuvka, zákaznícky displej a bónovacia tlačiareň. </p>
+                <p>V cene pokladničky elio miniPOS získavate doživotnú licenciu pokladničnej aplikácie <b>elio Kasa ZÁKLAD</b>. Samozrejmosťou je funkcia trénigového režimu pre zaškolenie obsluhy.</p></p>
+                <p></p>
             </div>
 
         </div>
@@ -107,14 +107,14 @@ include '../header.php';
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2 d-flex">
             <div class="col-md-6 align-items-stretch d-flex">
-                <div class="img img-video d-flex align-items-center" style="background-image: url(../images/elio3.png);">
+                <div class="img img-video d-flex align-items-center" style="background-image: url(../images/elio_T2_mini.jpg);">
                 </div>
             </div>
             <div class="col-md-6 heading-section ftco-animate pl-lg-5 pt-md-0 pt-5">
-                <h2 class="mb-4">Kalkulačka</h2>
-                <p>Kalkulačka - Pre zákazníkov , ktorí sú zvyknutí na predaj cez zadávanie PLU kódov , je k dispozícií okno KALKULAČKA , ktorá zjednodušuje tento predaj. Pri Kalkulačke je možný predaj aj cez otvorené ceny . Táto obrazovka, nahrádza jednoduché použitie, tak ako boli zákazníci zvyknutý pri bežných tlačítkových registračných pokladniciach </p>
-                <p>Viac sa zákazníci nemusia obávať práce s dotykovou obrazovkou elio Kasa, všetko majú tak intuitívne ako poznali doteraz.</p>
-                <p>Okno kalkulačky je možné nastaviť aby sa automaticky zobrazovalo po spustení aplikácie elio Kasa.</p>
+                <h2 class="mb-4">elio POS All-In-One Kasa  od 333 €</h2>
+                <p>Všetko , čo potrebujete obsahuje pokladničné riešenie elio POS All-In-One Kasa v jednom zariadení. Dotykovú obrazovku, vstavnú tlačiareň na termopapier o šírke 58mm alebo 80mm a zákaznícky displej podľa zariadenia.</p>
+                <p>K pokladničnému systému elio POS su pripojiteľné externé zariadenia , ako snímač čiarových kódov, pokladničná zásuvka a bónovacia tlačiareň</p>
+                <p></p>
             </div>
 
         </div>

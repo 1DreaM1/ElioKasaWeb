@@ -243,7 +243,14 @@
     mainClass: 'mfp-fade',
     removalDelay: 160,
     preloader: false,
-
+	iframe: {
+		patterns: {
+			youtube: {
+				index: 'youtube.com/',
+				id: 'v=',
+				src: 'h%id%'
+			}
+		}},
     fixedContentPos: false
   });
 
@@ -255,6 +262,10 @@
 
 	$('.appointment_time').timepicker();*/
 
+  $(".open-video").on('click', function (event) {
+  	event.preventDefault();
+  	$(this).parent().parent().parent().children("a").trigger('click');
+  });
 
 
 

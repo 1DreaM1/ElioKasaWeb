@@ -73,21 +73,21 @@ include 'header.php';
         <div class="row block-9 justify-content-center mb-5">
             <div class="col-md-8 mb-md-5">
                 <h2 class="text-center">V prípade akýchkoľvek otázok nás neváhajte kontaktovať.</h2>
-                <form action="#" class="bg-light p-5 contact-form">
+                <form action="includes/sendmail.php" method="post" class="bg-light p-5 contact-form">
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Meno">
+                        <input type="text" class="form-control" name="name" placeholder="Meno">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Email">
+                        <input type="text" class="form-control" name="email" placeholder="Email">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Predmet">
+                        <input type="text" class="form-control" name="subject" placeholder="Predmet">
                     </div>
                     <div class="form-group">
-                        <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Správa"></textarea>
+                        <textarea name="" id="" cols="30" rows="7" class="form-control" name="msg" placeholder="Správa"></textarea>
                     </div>
                     <div class="form-group">
-                        <input type="submit" value="Odoslať Správu" class="btn btn-primary py-3 px-5">
+                        <input type="submit" value="Odoslať Správu" name="submit" class="btn btn-primary py-3 px-5">
                     </div>
                 </form>
 

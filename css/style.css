@@ -449,7 +449,7 @@ mark,
 }
 
 .services-type-premium {
-	color: green;
+	color: orangered;
 	font-weight: normal;
 	float: right;
 }
@@ -8993,7 +8993,8 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: 0px 0px 27px -16px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 27px -16px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 27px -16px rgba(0, 0, 0, 0.75);
-    border: none; }
+    border: none;
+    border-radius: 5px;}
     .services-2:hover .icon span {
       color: #fff; }
     .services-2:hover .media-body {
@@ -9447,6 +9448,11 @@ textarea.form-control {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
+
+.img-2 {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
 
 .testimony-section {
   position: relative; }

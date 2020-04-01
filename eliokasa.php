@@ -57,17 +57,11 @@
 						</div>
 					</div>
 					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Pre koho sú vhodné naše riešenia elio Kasa ?</h2>
+          	            <h2 class="mb-4">Pre koho sú vhodné naše riešenia elio Kasa ?</h2>
 						<p>Elio Kasa pokladne eKasa sú spoľahlivé a jednoducho ovládateľné pokladne a pokladničné systémy pre malé a stredne veľké obchody, reštaurácie a kaviarne, hotely a ubytovne, výrobcov, remeselníkov a poskytovateľov služieb. Tieto registračné pokladne určené pre evidenciu tržieb v systéme eKasa sú užívateľmi oceňované pre jednoduchú inštaláciu, jednoduchú obsluhu, spoľahlivú prevádzku, nonstop technickú podporu a detailné návody. Pokladne fungujú aj pri výpadku internetu. Najlacnejšia elio miniPOS A5 akčná pokladnička je efektívne riešenie eKasa pre malých živnostníkov ako stánkarov, remeselníkov a poskytovateľov služieb..</p>
-						<p></p>
-						<p></p>
-					</div>
-					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Koľko zaplatíte za elio Kasa aplikáciu?</h2>
-						<p>Základná verzia aplikácie  " ZÁKLAD" je v cene Vami kúpenej certifikovanej pokladnice elio POS alebo miniPOS . Neplatíte žiadne mesačné alebo iné poplatky za používanie základnej verzie elio Kasa , vrátane prepojenia na platobny terminál SumUp a možnsosti využívania otvorených účtov.V základnej verzii sú dostupné všetky bežné funkcie ako zákazník používal pri tlačítkových registračných pokladniciach.</p>
-						<p></p>
-						<p></p>
-					</div>
+                        <h2 class="mb-4">Koľko zaplatíte za elio Kasa aplikáciu?</h2>
+                        <p>Základná verzia aplikácie  " ZÁKLAD" je v cene Vami kúpenej certifikovanej pokladnice elio POS alebo miniPOS . Neplatíte žiadne mesačné alebo iné poplatky za používanie základnej verzie elio Kasa , vrátane prepojenia na platobny terminál SumUp a možnsosti využívania otvorených účtov.V základnej verzii sú dostupné všetky bežné funkcie ako zákazník používal pri tlačítkových registračných pokladniciach.</p>
+                    </div>
 				</div>
 			</div>
 		</section>
