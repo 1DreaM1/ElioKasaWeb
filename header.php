@@ -59,7 +59,7 @@ else
             <li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "manual"): ?>active<?php endif; ?>"><a href="<?=$backdir?>manual"  class="nav-link">Manuály</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "vrpeliodriver"): ?>active<?php endif; ?>"><a href="<?=$backdir?>vrpeliodriver" class="nav-link">VRP Elio Driver</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "eshop"): ?>active<?php endif; ?>"><a href="http://eshop.eliokasa.sk" target="_blank" class="nav-link">Eshop</a></li>
-            <li class="nav-item"><a href="https://axis-distribution.eu/stats" target="_blank" class="nav-link">Back Office</a></li>
+            <li class="nav-item"><a href="https://axis-distribution.eu/stats/login" target="_blank" class="nav-link">Back Office</a></li>
 			<li class="nav-item <?php if (basename($_SERVER['REQUEST_URI']) == "contact"): ?>active<?php endif; ?>"><a href="<?=$backdir?>contact" class="nav-link">Kontakty</a></li>
 		</ul>
 	  </div>
