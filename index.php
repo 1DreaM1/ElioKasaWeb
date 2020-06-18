@@ -307,7 +307,7 @@
 		            <h2 class="mb-4">Požiadajte o cenovú ponuku</h2>
 		            <p>Na mieru ušité cenové ponuky pre vašu prevádzku.</p>
 		          </div>
-		          <form action="includes/sendordermail.php" class="appointment-form ftco-animate">
+		          <form action="includes/sendordermail.php" class="appointment-form ftco-animate" method="POST">
 		    				<div class="d-md-flex">
 			    				<div class="form-group">
 			    					<input type="text" class="form-control" name="name" placeholder="Meno">
@@ -323,8 +323,8 @@
 		                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
 		                    <select name="type" class="form-control form-control-sm">
                                 <option value="select">Vyberte druh</option>
-                                  <option value="1">Android</option>
-								  <option value="2">Windows</option>
+                                  <option value="Android">Android</option>
+								  <option value="Windows">Windows</option>
 		                    </select>
 		                  </div>
 			              </div>

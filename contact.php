@@ -59,7 +59,7 @@ include 'header.php';
                         <div class="icon">
                             <span class="icon-mobile-phone"></span>
                         </div>
-                        <p><span>Telefón:</span> <a href="tel://047-4331173">047-4331173</a></p>
+                        <p><span>Telefón:</span> <a href="tel://+421474331173">+421 47 4331173</a></p>
                     </div>
                     <div class="col-md-4 text-center py-4">
                         <div class="icon">
@@ -84,7 +84,7 @@ include 'header.php';
                         <input type="text" class="form-control" name="subject" placeholder="Predmet">
                     </div>
                     <div class="form-group">
-                        <textarea name="" id="" cols="30" rows="7" class="form-control" name="msg" placeholder="Správa"></textarea>
+                        <textarea id="" cols="30" rows="7" class="form-control" name="msg" placeholder="Správa"></textarea>
                     </div>
                     <div class="form-group">
                         <input type="submit" value="Odoslať Správu" name="submit" class="btn btn-primary py-3 px-5">
