@@ -75,16 +75,16 @@ include 'header.php';
                 <h2 class="text-center">V prípade akýchkoľvek otázok nás neváhajte kontaktovať.</h2>
                 <form action="includes/sendmail.php" method="post" class="bg-light p-5 contact-form">
                     <div class="form-group">
-                        <input type="text" class="form-control" name="name" placeholder="Meno">
+                        <input type="text" class="form-control" name="name" placeholder="Meno" required>
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" name="email" placeholder="Email">
+                        <input type="text" class="form-control" name="email" placeholder="Email" required>
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" name="subject" placeholder="Predmet">
+                        <input type="text" class="form-control" name="subject" placeholder="Predmet" required>
                     </div>
                     <div class="form-group">
-                        <textarea id="" cols="30" rows="7" class="form-control" name="msg" placeholder="Správa"></textarea>
+                        <textarea id="" cols="30" rows="7" class="form-control" name="msg" placeholder="Správa" required></textarea>
                     </div>
                     <div class="form-group">
                         <input type="submit" value="Odoslať Správu" name="submit" class="btn btn-primary py-3 px-5">

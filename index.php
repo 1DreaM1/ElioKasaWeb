@@ -310,10 +310,10 @@
 		          <form action="includes/sendordermail.php" class="appointment-form ftco-animate" method="POST">
 		    				<div class="d-md-flex">
 			    				<div class="form-group">
-			    					<input type="text" class="form-control" name="name" placeholder="Meno">
+			    					<input type="text" class="form-control" name="name" placeholder="Meno" required>
 			    				</div>
 			    				<div class="form-group ml-md-4">
-			    					<input type="text" class="form-control" name="surename" placeholder="Priezvisko">
+			    					<input type="text" class="form-control" name="surename" placeholder="Priezvisko" required>
 			    				</div>
 		    				</div>
 		    				<div class="d-md-flex">
@@ -321,7 +321,7 @@
 			    					<div class="form-field">
 		        					<div class="select-wrap">
 		                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-		                    <select name="type" class="form-control form-control-sm">
+		                    <select name="type" class="form-control form-control-sm" required>
                                 <option value="select">Vyberte druh</option>
                                   <option value="Android">Android</option>
 								  <option value="Windows">Windows</option>
@@ -330,7 +330,7 @@
 			              </div>
 			    				</div>
 		    					<div class="form-group ml-md-4">
-			    					<input type="text" class="form-control" name="tel" placeholder="Telefón">
+			    					<input type="text" class="form-control" name="tel" placeholder="Telefón" required>
 			    				</div>
 		    				</div>
 		    				<div class="d-md-flex">
